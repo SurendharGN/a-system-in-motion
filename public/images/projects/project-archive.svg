@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#101013"/>
+<rect x="120" y="140" width="1360" height="4" fill="#e7e3d9"/>
+<rect x="120" y="260" width="900" height="64" fill="#2a2a31"/>
+<text x="1120" y="294" font-family="monospace" font-size="26" fill="#8d8981">A—01</text>
+<rect x="120" y="352" width="780" height="22" fill="#2a2a31"/>
+<text x="1000" y="386" font-family="monospace" font-size="26" fill="#8d8981">A—02</text>
+<rect x="120" y="444" width="660" height="22" fill="#2a2a31"/>
+<text x="880" y="478" font-family="monospace" font-size="26" fill="#8d8981">A—03</text>
+<rect x="120" y="536" width="540" height="64" fill="#ff4d1c"/>
+<text x="760" y="570" font-family="monospace" font-size="26" fill="#8d8981">A—04</text>
+<rect x="120" y="628" width="900" height="22" fill="#2a2a31"/>
+<text x="1120" y="662" font-family="monospace" font-size="26" fill="#8d8981">A—05</text>
+<rect x="120" y="720" width="780" height="22" fill="#2a2a31"/>
+<text x="1000" y="754" font-family="monospace" font-size="26" fill="#8d8981">A—06</text>
+<rect x="120" y="812" width="660" height="64" fill="#2a2a31"/>
+<text x="880" y="846" font-family="monospace" font-size="26" fill="#8d8981">A—07</text>
+<rect x="120" y="904" width="540" height="22" fill="#2a2a31"/>
+<text x="760" y="938" font-family="monospace" font-size="26" fill="#8d8981">A—08</text>
+<rect x="120" y="996" width="900" height="22" fill="#2a2a31"/>
+<text x="1120" y="1030" font-family="monospace" font-size="26" fill="#8d8981">A—09</text>
+</svg>
