@@ -704,6 +704,11 @@ ul {
     text-align: center;
   }
 
+  .hero__aside {
+    justify-self: center;
+    max-width: 40ch;
+  }
+
   .hero__line--serif {
     padding-left: 0;
   }
